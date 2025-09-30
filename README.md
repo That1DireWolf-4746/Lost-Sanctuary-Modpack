@@ -29,7 +29,6 @@
 - Concurrent Chunk Management Engine
 - Connectible Chains
 - CoroUtil  
-- Cosmetic Armour  
 - CraftTweaker  
 - Custom Portal Builder  
 - Custom Time Cycle  
@@ -97,7 +96,6 @@
 - SwingThrough  
 - Terralith  
 - The Murk  
-- Trinkets API  
 - True Darkness Refabricated  
 - Unforgiving Void  
 - Unloaded Activity  
