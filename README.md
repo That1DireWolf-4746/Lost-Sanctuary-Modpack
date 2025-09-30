@@ -1,27 +1,16 @@
 ## README
-
-### Main Mods
-#### Oceanus
-Instead of an infinite world to explore, you are now limited to a roughly circular landmass surrounded by a bottomless ocean. 
-#### Hex Casting + AE2
-The Media Catcher draws media from its surroundings to power circuits, and additional fueling needs can be met by draining amethyst via a Media Extractor. The pure media is then transformed into a less volatile but more heavily limited form called Arcane Electricity, and is directed through simple constructed minds to store items as energy. A Charger can turn AE back into media to refill artifacts, overload Amethyst Shards, or power tools. Do not overload Charged Amethyst.
-
 ### Required Resource Packs (In this order, with DWPR on top)
 - DireWolf Pack Resources (Only en_us is fully implemented rip)  
 - True Dovah  
 - Frostbite and Brimstone  
-
 ### Suggested Client-side Mods
 - Sodium + Addons  
 - No Telemetry  
 - Figura  
-- Custom Player Models  
-- Chime or CIT Resewn  
 - Any recipe browser mod  
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected  
-
 ### Full Modlist
 - Almanac  
 - Appleskin  
@@ -119,7 +108,6 @@ The Media Catcher draws media from its surroundings to power circuits, and addit
 - YUNG's Better Mineshafts  
 - YUNG's Better Strongholds  
 - Zombie Awareness  
-
 ### TODO
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except Biplane  
