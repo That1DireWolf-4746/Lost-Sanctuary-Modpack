@@ -132,7 +132,7 @@
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
-- Hexcasting: Unify Wood Staffs under custom texture using Oak Staff Item ID - sorry folks!  
+- Hexcasting: Unify Wood Staffs under custom texture using Oak Staff Item ID  
 - RP: Finish True Dovah/Brimstone and Frostbite  
     L> Copper  
     L> Dragon Armour (Dragonsteel F I L, Netherite, Silver, Copper)  
@@ -148,7 +148,7 @@
 - AE2: Retexture to purple/grey/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube and Energy Acceptor  
 - AE2: Add Presses to Village Library and Blacksmith chest loot tables    
-- AE2: Processor rename and retexture to "Hardened Logician's Mind", "Hardened Mathematician's Mind", "Hardened Engineer's Mind"  
+- AE2: Processor rename and retexture to "Crystallized Logician's Mind", "Crystallized Mathematician's Mind", "Crystallized Engineer's Mind"  
 - AE2: Silicone is made with 1x Clay and 1x Amethyst Dust for 2x Silicone and renamed "Shapeless Mind", slight retexture  
 - AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", "Malleable Mind"  
 - AE2: Replace Skystone with Amethyst Dust/Block in recipes.  
