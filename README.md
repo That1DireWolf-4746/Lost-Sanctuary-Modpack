@@ -15,7 +15,6 @@
 - Almanac  
 - Appleskin  
 - Applied Energistics 2  
-- Aquamirae  
 - Aquatic Torches  
 - Architectury API  
 - BetterEnd  
@@ -62,7 +61,8 @@
 - Immersive Machinery  
 - Jupiter  
 - Krypton  
-- LambDynamicLights  
+- LambDynamicLights
+- Lanterns Belong On Walls  
 - Let Me Despawn  
 - Lithostitched  
 - Lodestone  
