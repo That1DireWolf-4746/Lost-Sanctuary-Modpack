@@ -73,7 +73,8 @@
 - MoreIotas  
 - Necronomicon API  
 - Netherite Horse Armour  
-- No Chat Reports  
+- No Chat Reports
+- No Creeper Griefing  
 - Noisium  
 - Not Enough Recipe Book  
 - Nullscape  
