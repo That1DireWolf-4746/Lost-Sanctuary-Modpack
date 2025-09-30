@@ -1,6 +1,6 @@
 ## README
 ### Required Resource Packs (In this order, with DWPR on top)
-- DireWolf Pack Resources  
+- DireWolf Pack Resources - WIP  
 - True Dovah  
 - Frostbite and Brimstone  
 ### Suggested Client-side Mods
@@ -12,6 +12,7 @@
 - Astrocraft  
 - Sound Physics Perfected  
 ### Full Modlist
+- Accessories  
 - Almanac  
 - Appleskin  
 - Applied Energistics 2  
@@ -20,7 +21,9 @@
 - BetterEnd  
 - BetterNether  
 - BCLib  
-- Boids  
+- Boids
+- Bountiful
+- Bountiful Baubles - Reforked  
 - Cardinal Components API  
 - Chunk Loader Persistence
 - CICADA
@@ -30,7 +33,8 @@
 - Concurrent Chunk Management Engine
 - Connectible Chains
 - CoroUtil  
-- CraftTweaker  
+- CraftTweaker
+- Cosmetic Armor  
 - Custom Portal Builder  
 - Custom Time Cycle  
 - Deeper Oceans Refabricated
@@ -60,7 +64,8 @@
 - Ice and Fire: Community Edition  
 - Immersive Aircraft  
 - Immersive Machinery  
-- Jupiter  
+- Jupiter
+- Kambrik  
 - Krypton  
 - LambDynamicLights
 - Lanterns Belong On Walls  
@@ -92,9 +97,10 @@
 - PAUCAL  
 - Pet Armor
 - Persistent Effects  
-- Porting Lib  
-- Respawnable Pets
-- RPG Origins Paths
+- Porting Lib
+- Radiant Gear
+- Respawnable Pets  
+- RPG Origins Paths  
 - Save Dragon Egg from the Void  
 - Small Ships  
 - SmartBrainLib  
@@ -103,7 +109,9 @@
 - Structurify  
 - SwingThrough  
 - Terralith  
-- The Murk  
+- The Murk
+- Torches n Trinkets
+- Trinkets Compat Layer for Accessories  
 - True Darkness Refabricated
 - Ulterior Motives  
 - Unforgiving Void  
