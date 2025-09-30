@@ -1,6 +1,6 @@
 ## README
 ### Required Resource Packs (In this order, with DWPR on top)
-- DireWolf Pack Resources (Only en_us is fully implemented rip)  
+- DireWolf Pack Resources  
 - True Dovah  
 - Frostbite and Brimstone  
 ### Suggested Client-side Mods
