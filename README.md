@@ -64,11 +64,13 @@
 - Krypton  
 - LambDynamicLights
 - Lanterns Belong On Walls  
-- Let Me Despawn  
+- Let Me Despawn
+- Lithium  
 - Lithostitched  
 - Lodestone  
 - Lootr  
-- MemoryLeakFix  
+- MemoryLeakFix
+- Mob Difficulty RPG  
 - More Density Functions  
 - MoreIotas  
 - Necronomicon API  
@@ -81,7 +83,9 @@
 - Nyf's Spiders  
 - Obscure API  
 - Oceanus  
-- OctoLib Version 0.4.2  
+- OctoLib Version 0.4.2
+- Origins
+- OriginsTweaks  
 - owo-lib  
 - Paradise Lost  
 - Patchouli Fabric  
@@ -89,7 +93,8 @@
 - Pet Armor
 - Persistent Effects  
 - Porting Lib  
-- Respawnable Pets  
+- Respawnable Pets
+- RPG Origins Paths
 - Save Dragon Egg from the Void  
 - Small Ships  
 - SmartBrainLib  
@@ -99,7 +104,8 @@
 - SwingThrough  
 - Terralith  
 - The Murk  
-- True Darkness Refabricated  
+- True Darkness Refabricated
+- Ulterior Motives  
 - Unforgiving Void  
 - Unloaded Activity  
 - Unseaworthy
