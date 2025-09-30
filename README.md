@@ -74,6 +74,7 @@
 - Lithostitched  
 - Lodestone  
 - Lootr  
+- Merling's Grace  
 - MemoryLeakFix
 - Mob Difficulty RPG  
 - More Density Functions  
