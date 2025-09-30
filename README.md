@@ -122,7 +122,8 @@
 - Zombie Awareness  
 ### TODO
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
-- Immersive Aircraft: Remove everything lol we're only using this for IM's submarine  
+- Immersive Aircraft: Remove everything except for Biplane and Airship
+- Immersive Machines: Remove Digger
 - Hexcasting: Unify Wood Staffs under custom texture using Oak Staff Item ID - sorry folks!  
 - RP: Finish True Dovah/Brimstone and Frostbite  
     L> Copper  
