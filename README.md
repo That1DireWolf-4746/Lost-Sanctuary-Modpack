@@ -49,10 +49,11 @@
 - Falling Sand  
 - Faux Custom Entity Data  
 - FerriteCore  
-- Fireplace Lib
+- Fireplace Lib  
 - Floating Horses  
 - Fowl Play  
-- Friendly Fire  
+- Friendly Fire
+- fzzy_config  
 - Geckolib  
 - Hex Casting  
 - Hexcasting Media Display  
@@ -104,7 +105,8 @@
 - Save Dragon Egg from the Void  
 - Small Ships  
 - SmartBrainLib  
-- Soul Fire'd  
+- Soul Fire'd
+- Statement  
 - Stonecutter Damage  
 - Structurify  
 - SwingThrough  
