@@ -47,7 +47,8 @@ The Media Catcher draws media from its surroundings to power circuits, and addit
 - BCLib  
 - Boids  
 - Cardinal Components API  
-- Chunk Loader Persistence  
+- Chunk Loader Persistence
+- CICADA  
 - Cloth Config API  
 - Cobweb  
 - Concurrent Chunk Management Engine  
