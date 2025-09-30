@@ -46,7 +46,8 @@
 - Falling Sand  
 - Faux Custom Entity Data  
 - FerriteCore  
-- Fireplace Lib  
+- Fireplace Lib
+- Floating Horses  
 - Fowl Play  
 - Friendly Fire  
 - Geckolib  
