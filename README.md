@@ -36,7 +36,8 @@
 - Custom Time Cycle  
 - Deeper Oceans Refabricated
 - Do A Barrel Roll  
-- Dungeons and Taverns Stronghold  
+- Dungeons and Taverns Stronghold
+- Encumbering Stone  
 - Ender Dragon Fight Remastered  
 - Enhanced Falling Trees  
 - Entity Model Features  
@@ -83,7 +84,8 @@
 - Paradise Lost  
 - Patchouli Fabric  
 - PAUCAL  
-- Pet Armor  
+- Pet Armor
+- Persistent Effects  
 - Porting Lib  
 - Respawnable Pets  
 - Save Dragon Egg from the Void  
@@ -99,7 +101,8 @@
 - True Darkness Refabricated  
 - Unforgiving Void  
 - Unloaded Activity  
-- Unseaworthy  
+- Unseaworthy
+- Unvanishing  
 - Uranus  
 - Wither's Wrath  
 - YetAnotherConfigLib  
