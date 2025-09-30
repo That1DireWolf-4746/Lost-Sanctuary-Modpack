@@ -27,7 +27,8 @@
 - CICADA  
 - Cloth Config API  
 - Cobweb  
-- Concurrent Chunk Management Engine  
+- Concurrent Chunk Management Engine
+- Connectible Chains
 - CoroUtil  
 - Cosmetic Armour  
 - CraftTweaker  
@@ -106,7 +107,8 @@
 - YUNG's API  
 - YUNG's Better Dungeons  
 - YUNG's Better Mineshafts  
-- YUNG's Better Strongholds  
+- YUNG's Better Strongholds
+- Zipline  
 - Zombie Awareness  
 ### TODO
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
