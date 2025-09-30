@@ -129,6 +129,7 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
+- Bountiful Baubles: Remove Ankh Shield
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
