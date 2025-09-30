@@ -131,7 +131,7 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- Bountiful Baubles: Remove Ankh Shield
+- BetterEnd: Remove armoured and crystallite elytra because they still use the PLS UPDATE CICADA cape texture
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
