@@ -156,7 +156,7 @@
 - AE2: Processor rename and retexture to "Crystallized Logician's Mind", "Crystallized Mathematician's Mind", "Crystallized Engineer's Mind"  
 - AE2: Silicone is made with 1x Clay and 1x Amethyst Dust for 2x Silicone and renamed "Shapeless Mind", slight retexture  
 - AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", "Malleable Mind"  
-- AE2: Replace Skystone with Amethyst Dust/Block in recipes.  
+- AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher", slight retexture  
     L> [Copper Ingot] [Fluix Block] [Copper Ingot]  
     L> [Slate] [Immaterial Web] [Slate]  
