@@ -131,6 +131,7 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
+- Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - BetterEnd: Remove armoured and crystallite elytra because they still use the PLS UPDATE CICADA cape texture
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
@@ -159,7 +160,7 @@
     L> [Copper Ingot] [Fluix Block] [Copper Ingot]  
     L> [Slate] [Immaterial Web] [Slate]  
     L> [Copper Ingot] [Charged CQ Crystal] [Copper Ingot]  
-- AE2: Smart Cable crafting recipe changed: [Covered Cable] [Amethyst Dust] [Glowstone Dust]  
+- AE2: Smart Cable crafting recipe changed: [Covered Cable] [Amethyst Dusouter wilds mapt] [Glowstone Dust]  
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
     L> [Copper Ingot] [Fluix Crystal] [Copper Ingot]  
     L> [Iron Ingot] [Furnace] [Iron Ingot]  
