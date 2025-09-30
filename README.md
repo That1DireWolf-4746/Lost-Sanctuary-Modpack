@@ -132,7 +132,6 @@
 - Zombie Awareness  
 ### TODO
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
-- BetterEnd: Remove armoured and crystallite elytra because they still use the PLS UPDATE CICADA cape texture
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
