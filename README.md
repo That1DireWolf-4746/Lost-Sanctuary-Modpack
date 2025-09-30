@@ -35,7 +35,6 @@
 - CoroUtil  
 - CraftTweaker
 - Cosmetic Armor  
-- Custom Portal Builder  
 - Custom Time Cycle  
 - Deeper Oceans Refabricated
 - Do A Barrel Roll  
