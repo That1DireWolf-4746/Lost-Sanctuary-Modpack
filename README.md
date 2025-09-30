@@ -11,19 +11,6 @@ The Media Catcher draws media from its surroundings to power circuits, and addit
 - True Dovah  
 - Frostbite and Brimstone  
 
-### Suggested Resource Packs
-- Even Better Enchants  
-- Motschen's Better Leaves  
-- (Bee's) Fancy Crops  
-- Simple Grass Flowers + Simple Lower Grass Sides  
-- O's Colorful Grasses  
-- Clean Connected Glass  
-- Connected Paths  
-- Blinking Ender Eyes  
-- Connected Textures (CTM) Overhaul  
-- Lanostry's wolves  
-- Lanostry's foxes  
-
 ### Suggested Client-side Mods
 - Sodium + Addons  
 - No Telemetry  
