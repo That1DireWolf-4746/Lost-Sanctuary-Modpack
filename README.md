@@ -56,7 +56,8 @@ The Media Catcher draws media from its surroundings to power circuits, and addit
 - CraftTweaker  
 - Custom Portal Builder  
 - Custom Time Cycle  
-- Deeper Oceans Refabricated  
+- Deeper Oceans Refabricated
+- Do A Barrel Roll  
 - Dungeons and Taverns Stronghold  
 - Ender Dragon Fight Remastered  
 - Enhanced Falling Trees  
