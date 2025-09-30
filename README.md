@@ -23,7 +23,8 @@
 - Boids  
 - Cardinal Components API  
 - Chunk Loader Persistence
-- CICADA  
+- CICADA
+- Cicada Cape Fix (because barrel roll specifically requests an older version of cicada)  
 - Cloth Config API  
 - Cobweb  
 - Concurrent Chunk Management Engine
