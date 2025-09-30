@@ -90,13 +90,15 @@
 - Obscure API  
 - Oceanus  
 - OctoLib Version 0.4.2
-- Origins
-- OriginsTweaks  
+- Origins  
+- OriginsTweaks
+- Overgrown's origins: Dietary Delights  
 - owo-lib  
 - Paradise Lost  
 - Patchouli Fabric  
-- PAUCAL  
-- Pet Armor
+- PAUCAL
+- Pehkui
+- Pet Armor  
 - Persistent Effects  
 - Porting Lib
 - Radiant Gear
