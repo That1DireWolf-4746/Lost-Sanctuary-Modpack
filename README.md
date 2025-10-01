@@ -134,7 +134,8 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- Tinker's x PL compat  
+- Tinker's x PL x IaF compat
+- Tinkers: Remove Staffs (Hexcasting already has 'em)  
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
