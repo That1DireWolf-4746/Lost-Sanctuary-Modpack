@@ -50,9 +50,11 @@
 - Faux Custom Entity Data  
 - FerriteCore  
 - Fireplace Lib  
-- Floating Horses  
+- Floating Horses
+- Forge Config API Port
+- Forge Porting Lib  
 - Fowl Play  
-- Friendly Fire
+- Friendly Fire  
 - fzzy_config  
 - Geckolib  
 - Hex Casting  
