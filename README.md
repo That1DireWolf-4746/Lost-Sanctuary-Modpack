@@ -110,7 +110,8 @@
 - Soul Fire'd
 - Statement  
 - Stonecutter Damage  
-- Structurify  
+- Structurify
+- Supporoform  
 - SwingThrough  
 - Terralith  
 - The Murk
@@ -133,6 +134,7 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
+- Tinker's x PL compat  
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
