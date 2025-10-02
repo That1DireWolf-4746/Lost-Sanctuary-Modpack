@@ -10,7 +10,8 @@
 - Any recipe browser mod  
 - Any connected textures mod  
 - Astrocraft  
-- Sound Physics Perfected  
+- Sound Physics Perfected
+- CIT Resewn or Chime  
 ### Full Modlist
 - Accessories  
 - Almanac  
