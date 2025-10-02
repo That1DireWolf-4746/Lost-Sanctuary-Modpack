@@ -87,7 +87,8 @@
 - Noisium  
 - Not Enough Recipe Book  
 - Nullscape  
-- Nyf's Spiders  
+- Nyf's Spiders
+- Nyf's Wearable Backpacks  
 - Obscure API  
 - Oceanus  
 - OctoLib Version 0.4.2
