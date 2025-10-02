@@ -135,7 +135,8 @@
 - Zombie Awareness  
 ### TODO
 - Tinker's x PL x IaF compat -> somehow find a way to add the flamed/frosted/lightninged traits?
-- Tinkers: Remove Staffs (Hexcasting already has 'em)  
+- Tinkers: Remove Staffs (Hexcasting already has 'em)
+- Tinkers: Remove Armour and Slimelytra
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
