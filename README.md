@@ -134,7 +134,12 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- Tinker's x PL x IaF compat -> somehow find a way to add the flamed/frosted/lightninged traits?
+- DWPR: Add a custom weapon skin for contributers (requires CITR/CHIME)
+- Tinker's x PL x IaF compat  
+  L> Most assets for IaF still exist just have to map them to datapack  
+  L> Dragonsteels have their regular traits and reduced damage/durability
+  L> Dragonbone instead has the Splintering special trait and can be flamed/frosted/shocked with blood for bonus damage against opposing dragon types  
+  L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Tinkers: Remove Staffs (Hexcasting already has 'em)
 - Tinkers: Remove Armour and Slimelytra
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
