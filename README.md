@@ -82,7 +82,6 @@
 - More Density Functions  
 - MoreIotas  
 - Necronomicon API  
-- Netherite Horse Armour  
 - No Chat Reports
 - No Creeper Griefing  
 - Noisium
