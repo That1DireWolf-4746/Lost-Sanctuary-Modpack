@@ -75,8 +75,8 @@
 - Lithium  
 - Lithostitched  
 - Lodestone  
-- Lootr  
-- Merling's Grace  
+- Lootr
+- Mantle  
 - MemoryLeakFix
 - Mob Difficulty RPG  
 - More Density Functions  
@@ -94,9 +94,6 @@
 - Obscure API  
 - Oceanus  
 - OctoLib Version 0.4.2
-- Origins  
-- OriginsTweaks
-- Overgrown's origins: Dietary Delights  
 - owo-lib  
 - Paradise Lost  
 - Patchouli Fabric  
