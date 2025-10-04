@@ -84,7 +84,8 @@
 - Netherite Horse Armour  
 - No Chat Reports
 - No Creeper Griefing  
-- Noisium  
+- Noisium
+- Not Enough Animations  
 - Not Enough Recipe Book  
 - Nullscape  
 - Nyf's Spiders
