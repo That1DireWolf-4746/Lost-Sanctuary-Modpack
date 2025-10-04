@@ -137,14 +137,12 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- DWPR: Add a custom weapon skin for contributers (requires CITR/CHIME)
+- DWPR: Dev weapons (requires CITR/CHIME) - 1/? done
 - Tinker's x PL x IaF compat  
   L> Most assets for IaF still exist just have to map them to datapack  
   L> Dragonsteels have their regular traits and reduced damage/durability
   L> Dragonbone instead has the Splintering special trait and can be flamed/frosted/shocked with blood for bonus damage against opposing dragon types  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
-- Tinkers: Remove Staffs (Hexcasting already has 'em)
-- Tinkers: Remove Armour and Slimelytra
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
@@ -157,28 +155,16 @@
     L> Dragon Command Staff  
     L> Tide Guardian sets  
 - Zombie Awareness: ZA/LDL compat  
-- AE2: Remove Meteorite Compass and Energy Acceptor  
-- AE2: Remove Flawless Budding CQ. CQ is instead obtained by crafting Amethyst with 4x Quartz for 4x CQ.  
-    L> Amethyst Dust + 4x Quartz Shaped -> 4x CQ Dust  
-    L> Amethyst Shard + 4x Quartz Shaped -> 4x CQ Shard  
-    L> Charged Amethyst + 4x Quartz Shaped -> 4x Charged CQ  
-- AE2: Retexture to purple/grey/gold theme instead of base grey/blue/white  
-- AE2: Remove Mysterious Cube and Energy Acceptor  
+- AE2: Remove Energy Acceptor  
+- AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
+- AE2: Remove Mysterious Cube  
 - AE2: Add Presses to Village Library and Blacksmith chest loot tables    
 - AE2: Processor rename and retexture to "Crystallized Logician's Mind", "Crystallized Mathematician's Mind", "Crystallized Engineer's Mind"  
 - AE2: Silicone is made with 1x Clay and 1x Amethyst Dust for 2x Silicone and renamed "Shapeless Mind", slight retexture  
 - AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", "Malleable Mind"  
-- AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed.
-- AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher", slight retexture  
-    L> [Copper Ingot] [Fluix Block] [Copper Ingot]  
-    L> [Slate] [Immaterial Web] [Slate]  
-    L> [Copper Ingot] [Charged CQ Crystal] [Copper Ingot]  
-- AE2: Smart Cable crafting recipe changed: [Covered Cable] [Amethyst Dust] [Glowstone Dust]  
+- AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
+- AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
-    L> [Copper Ingot] [Fluix Crystal] [Copper Ingot]  
-    L> [Iron Ingot] [Furnace] [Iron Ingot]  
-    L> [Iron Ingot] [Immaterial Web] [Iron Ingot]  
-    L> Crank the generation rate since this is intended to be the primary generator method
     L> Add Amethyst to Fuel recipe
     L> Remove base Fuel recipes
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
@@ -191,7 +177,6 @@
     L> [Iron Ingot] [ X ] [ X ]   
     L> [Iron Ingot] [Fluix Crystal] [Iron Ingot]  
 - AE2: Lumen Ball now returns 8x when crafted  
-- AE2: Rename Pattern to Template to avoid confusion with Hex Casting patterns  
-- Hex Casting/AE2: Add entry for Media Extractor, Immaterial Web, Media Catcher, Shapeless Mind, AE2 "Beyond the Scope of This Journal" entry.  
+- Hex Casting/AE2: Add entry for Media Extractor, Immaterial Web, Media Catcher, Shapeless Mind, AE2 "Beyond the Scope of This Journal" entry. <-learn patchouli caz stop putting it off  
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab  
