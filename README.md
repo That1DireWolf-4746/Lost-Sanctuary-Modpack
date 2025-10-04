@@ -66,7 +66,8 @@
 - Immersive Aircraft  
 - Immersive Machinery  
 - Jupiter
-- Kambrik  
+- Kambrik
+- Kilt  
 - Krypton  
 - LambDynamicLights
 - Lanterns Belong On Walls  
@@ -114,9 +115,9 @@
 - Statement  
 - Stonecutter Damage  
 - Structurify
-- Supporoform  
 - SwingThrough  
-- Terralith  
+- Terralith
+- Tinkers' Construct
 - The Murk
 - Torches n Trinkets
 - Trinkets Compat Layer for Accessories  
