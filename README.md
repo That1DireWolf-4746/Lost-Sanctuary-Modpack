@@ -11,7 +11,7 @@
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected
-- CIT Resewn or Chime  
+- CIT Resewn or Chime (Required for some textures to work - either is fine)  
 ### Full Modlist
 - Accessories  
 - Almanac  
