@@ -133,15 +133,14 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- DWPR: Dev weapons (requires CITR/CHIME) - 1/? done
-- DWPR: Hex Casting nbt staffs
+- DWPR: Dev weapons (requires CITR/CHIME) - 1/? done  
+- DWPR: Hex Casting nbt staffs - 11/46 done  
+- Small Ships: Missing Ships - 12/46 done  
 - Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
-- Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
-- Hexcasting: Unify Wood Staffs under custom texture using Oak Staff Item ID  
 - RP: Finish True Dovah/Brimstone and Frostbite  
     L> Copper  
     L> Dragon Armour (Dragonsteel F I L, Netherite, Silver, Copper)  
