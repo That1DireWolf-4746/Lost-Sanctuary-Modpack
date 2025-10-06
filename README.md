@@ -134,6 +134,7 @@
 - Zombie Awareness  
 ### TODO
 - DWPR: Dev weapons (requires CITR/CHIME) - 1/? done
+- DWPR: Hex Casting nbt staffs
 - Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
