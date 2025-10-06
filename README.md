@@ -136,8 +136,8 @@
 - Zombie Awareness  
 ### TODO
 - DWPR: Dev weapons - 1/? done  
-- DWPR: Hex Casting nbt staff textures - 14/46 done  
-- Small Ships: Missing Ships textures - 12/46 done  
+- DWPR: Hex Casting nbt staff textures - 14/45 done  
+- Small Ships: Missing Ships textures - 12/45 done  
 - Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
