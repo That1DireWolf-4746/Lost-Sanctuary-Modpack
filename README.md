@@ -134,10 +134,7 @@
 - Zombie Awareness  
 ### TODO
 - DWPR: Dev weapons (requires CITR/CHIME) - 1/? done
-- Tinker's x PL x IaF compat  
-  L> Most assets for IaF still exist just have to map them to datapack  
-  L> Dragonsteels have their regular traits and reduced damage/durability
-  L> Dragonbone instead has the Splintering special trait and can be flamed/frosted/shocked with blood for bonus damage against opposing dragon types  
+- Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Small Ships: Missing Ships from BetterNether and BetterEnd and Edified (Hexcasting)  
