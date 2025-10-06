@@ -78,6 +78,8 @@
 - Lootr
 - Mantle  
 - MemoryLeakFix
+- Missing Trees
+- Missing Horse Armor  
 - Mob Difficulty RPG  
 - More Density Functions  
 - MoreIotas  
