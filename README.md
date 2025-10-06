@@ -11,7 +11,6 @@
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected
-- CIT Resewn or Chime (Required for some textures to work - either is fine)  
 ### Full Modlist
 - Accessories  
 - Almanac  
@@ -27,6 +26,7 @@
 - Bountiful Baubles - Reforked  
 - Cardinal Components API  
 - Chunk Loader Persistence
+- Chime  
 - CICADA
 - Cicada Cape Fix (because barrel roll specifically requests an older version of cicada)  
 - Cloth Config API  
@@ -135,9 +135,9 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- DWPR: Dev weapons (requires CITR/CHIME) - 1/? done  
-- DWPR: Hex Casting nbt staff textures (requires CITR/CHIME) - 14/46 done  
-- Small Ships: Missing Ships textures (requires ETF) - 12/46 done  
+- DWPR: Dev weapons - 1/? done  
+- DWPR: Hex Casting nbt staff textures - 14/46 done  
+- Small Ships: Missing Ships textures - 12/46 done  
 - Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
