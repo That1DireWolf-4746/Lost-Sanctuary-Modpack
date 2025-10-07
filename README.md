@@ -54,7 +54,8 @@
 - Floating Horses  
 - Fowl Play  
 - Friendly Fire  
-- fzzy_config  
+- fzzy_config
+- Game Stages  
 - Geckolib  
 - Hex Casting  
 - Hexcasting Media Display  
@@ -80,7 +81,8 @@
 - MemoryLeakFix
 - Missing Trees
 - Missing Horse Armor  
-- Mob Difficulty RPG  
+- Mob Difficulty RPG
+- Mob Stages Reborn  
 - More Density Functions  
 - MoreIotas  
 - Necronomicon API  
@@ -94,6 +96,7 @@
 - Obscure API  
 - Oceanus  
 - OctoLib Version 0.4.2
+- Ore Stages Reborn  
 - owo-lib  
 - Paradise Lost  
 - Patchouli Fabric  
@@ -103,9 +106,11 @@
 - Persistent Effects  
 - Porting Lib
 - Radiant Gear
+- Re-Dimension Stages  
 - Respawnable Pets  
 - RPG Origins Paths  
-- Save Dragon Egg from the Void  
+- Save Dragon Egg from the Void
+- Simple Boss Damage Cap  
 - Small Ships  
 - SmartBrainLib  
 - Soul Fire'd
@@ -174,4 +179,6 @@
 - AE2: Lumen Ball now returns 8x when crafted  
 - Hex Casting/AE2: Add entry for Media Extractor, Immaterial Web, Media Catcher, Shapeless Mind, AE2 "Beyond the Scope of This Journal" entry. <-learn patchouli caz stop putting it off  
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
-- AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab  
+- AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
+- GS: Gate Nether behind a mob.
+- GS: Gate 
