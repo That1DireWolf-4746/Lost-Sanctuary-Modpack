@@ -166,7 +166,7 @@
   L> Gilded Gold melts into 1.5x the amount of gold regular gold melts into with some of Silver and Electrum byproduct.
   L> Olvite melts into Lead.
   L> Surtrum melts into Pewter with some Seared Stone byproduct.
-- Tinker's Construct: Remove vanilla gear crafting recipes.
+- Tinker's Construct: Remove vanilla gear crafting recipes and staffs
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
