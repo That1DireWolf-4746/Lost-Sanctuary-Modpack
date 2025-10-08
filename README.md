@@ -120,7 +120,8 @@
 - Rotten Creatures  
 - RPG Origins Paths  
 - Save Dragon Egg from the Void
-- Scaling Health  
+- Scaling Health
+- Silent Lib
 - Simple Boss Damage Cap  
 - Small Ships  
 - SmartBrainLib  
