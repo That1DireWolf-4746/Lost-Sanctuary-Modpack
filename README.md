@@ -210,7 +210,7 @@
 - GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound, Immortal, Restless Spirit, Wither Skeletons in the Overworld spawn post Wither.
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
 - GS: Possessed Swords spawn after obtaining Tier 2 Tinker's gear.
-- BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
+- BiS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
 - GS: Sea Serpents spawn after opening Paradise Lost for the first time.
 - Scaling Health: Disable ores
 - Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, Blights, minibosses when killed for the first time.
@@ -221,3 +221,4 @@
 - Scaling Health: Blights drop 0-2 Heart Shards.
 - Scaling Health: Maximum health is 20 hearts.
 - LB: Remove Beast Pit
+- BiS: Remove Scorched woodset.
