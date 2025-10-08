@@ -11,17 +11,26 @@
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected
+### Intended Progression
+- Pre-Nether: Wood to Iron. Tier 1 Tinker's materials.
+- Post-Nether: Smeltery unlock. Allows crafting and use of Diamond and Netherite tools via TCon smelting/alloying. Tier 2 and 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld.
+- Post-End: Tier 4 Tinker's materials. Mobs now have increased speed and health.
+- Post-Wither: Turns any remaining Ruby ore into Fiery Ruby. Enderslime islands begin to spawn. Tier 4 Tinker's materials. New mobs can spawn in the Overworld and Nether.
+- Paradise Lost Upper Region: Dragonbone, Surtrum, Electrum, Olvite. Tier 5 Tinker's materials. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
+- Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns. Tier 6 Tinker's materials.
 ### Full Modlist
-- Accessories  
+- Accessories
 - Almanac  
 - Appleskin  
 - Applied Energistics 2  
 - Aquatic Torches  
-- Architectury API  
+- Architectury API
+- Bases Not Safe  
 - BetterEnd  
 - BetterNether  
 - BCLib  
 - Boids
+- Born in Chaos
 - Bountiful
 - Bountiful Baubles - Reforked  
 - Cardinal Components API  
@@ -35,14 +44,13 @@
 - Connectible Chains
 - CoroUtil  
 - CraftTweaker
-- Cosmetic Armor  
-- Custom Time Cycle  
+- Cosmetic Armor
+- Creatures Expanded  
 - Deeper Oceans Refabricated
 - Do A Barrel Roll  
 - Dungeons and Taverns Stronghold
 - Encumbering Stone  
 - Ender Dragon Fight Remastered  
-- Enhanced Falling Trees  
 - Entity Model Features  
 - Entity Texture Features  
 - Fabric API  
@@ -81,7 +89,6 @@
 - MemoryLeakFix
 - Missing Trees
 - Missing Horse Armor  
-- Mob Difficulty RPG
 - Mob Stages Reborn  
 - More Density Functions  
 - MoreIotas  
@@ -107,7 +114,8 @@
 - Porting Lib
 - Radiant Gear
 - Re-Dimension Stages  
-- Respawnable Pets  
+- Respawnable Pets
+- Rotten Creatures  
 - RPG Origins Paths  
 - Save Dragon Egg from the Void
 - Simple Boss Damage Cap  
@@ -117,6 +125,7 @@
 - Statement  
 - Stonecutter Damage  
 - Structurify
+- Suspicious Pots  
 - SwingThrough  
 - Terralith
 - Tinkers' Construct
@@ -142,7 +151,8 @@
 ### TODO
 - DWPR: Dev weapons - 1/? done  
 - DWPR: Hex Casting nbt staff textures - 14/45 done  
-- Small Ships: Missing Ships textures - 12/45 done  
+- Small Ships: Missing Ships textures - 12/45 done
+- CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
 - Tinker's x PL x IaF  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
@@ -180,5 +190,10 @@
 - Hex Casting/AE2: Add entry for Media Extractor, Immaterial Web, Media Catcher, Shapeless Mind, AE2 "Beyond the Scope of This Journal" entry. <-learn patchouli caz stop putting it off  
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
-- GS: Gate Nether behind a mob.
-- GS: Gate 
+- GS: Gate Nether behind Sir Pumpkinhead.
+- GS: Gate Flaming Ruby behind Wither.
+- GS x TC: Gate Diamond gear and Netherite behind Smeltery.
+- GS: Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
+- GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound spawn post Wither.
+- GS: Supreme Bonescaller replaces Bonescaller post Wither.
+- BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 30% Netherite byproduct.
