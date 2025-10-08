@@ -14,8 +14,8 @@
 ### Intended Progression
 - Pre-Nether: Wood to Iron. Tier 1 Tinker's materials.
 - Post-Nether: Smeltery unlock. Allows crafting and use of Diamond and Netherite tools via TCon smelting/alloying. Tier 2 and 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld.
-- Post-End: Tier 4 Tinker's materials. Mobs now have increased speed and health.
-- Post-Wither: Turns any remaining Ruby ore into Fiery Ruby. Enderslime islands begin to spawn. Tier 4 Tinker's materials. New mobs can spawn in the Overworld and Nether.
+- Post-End: Tier 4 Tinker's materials. Mobs now have increased speed and health. 
+- Post-Wither: Ruby can be found in the Nether. New mobs can spawn in the Overworld and Nether.
 - Paradise Lost Upper Region: Dragonbone, Surtrum, Electrum, Olvite. Tier 5 Tinker's materials. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
 - Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns. Tier 6 Tinker's materials.
 ### Full Modlist
@@ -191,9 +191,10 @@
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
 - GS: Gate Nether behind Sir Pumpkinhead.
-- GS: Gate Flaming Ruby behind Wither.
+- GS: Gate Ruby behind Wither.
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
 - GS: Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
 - GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound spawn post Wither.
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
 - BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 30% Netherite byproduct.
+- IaF: If they're too problematic then drop the Sea Serpent spawnrates like holy shit man. They're meant to be a rare ocean miniboss now there's other mobs that stop you from swimming.
