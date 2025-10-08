@@ -12,9 +12,9 @@
 - Astrocraft  
 - Sound Physics Perfected
 ### Intended Progression
-- Pre-Nether: Wood to Iron. Tier 1 Tinker's materials.
-- Post-Nether: Smeltery unlock. Allows crafting and use of Diamond and Netherite tools via TCon smelting/alloying. Tier 2 and 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld.
-- Post-End: Tier 4 Tinker's materials. Mobs now have increased speed and health. 
+- Pre-Nether: Wood to Iron. Tier 1 and 2 Tinker's materials. 
+- Post-Nether: Foundry unlock. Allows crafting and use of Diamond and Netherite tools via TCon smelting/alloying. Tier 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld. 
+- Post-End: Tier 4 Tinker's materials. New mobs can spawn in the Overworld. Mobs now have increased speed and health. 
 - Post-Wither: Ruby can be found in the Nether. New mobs can spawn in the Overworld and Nether.
 - Paradise Lost Upper Region: Dragonbone, Surtrum, Electrum, Olvite. Tier 5 Tinker's materials. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
 - Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns. Tier 6 Tinker's materials.
@@ -86,6 +86,7 @@
 - Lithostitched  
 - Lodestone  
 - Lootr
+- Loot Stages
 - Luminous: Beasts  
 - Mantle  
 - MemoryLeakFix
@@ -115,6 +116,7 @@
 - Persistent Effects  
 - Porting Lib
 - Radiant Gear
+- Random Tinkers' Tweaks
 - Re-Dimension Stages  
 - Respawnable Pets
 - Rotten Creatures  
@@ -157,8 +159,14 @@
 - DWPR: Hex Casting nbt staff textures - 14/45 done  
 - Small Ships: Missing Ships textures - 12/45 done
 - CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
-- Tinker's x PL x IaF  
+- Tinker's Mod Compats  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
+  L> Serpent Scales, Shiny Scales, Dragon Scales as Armour materials with relevant stats
+  L> Olvite, Surtrum, Gilded Gold retextured and instead melts into unused Tinker's materials
+  L> Gilded Gold melts into 1.5x the amount of gold regular gold melts into with some of Silver and Electrum byproduct.
+  L> Olvite melts into Lead.
+  L> Surtrum melts into Pewter with some Seared Stone byproduct.
+- Tinker's Construct: Remove vanilla gear crafting recipes.
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Immersive Aircraft: Remove everything except for Biplane and Airship
 - Immersive Machines: Remove Digger
@@ -168,7 +176,7 @@
     L> Dragon Horn Holding (F I L)  
     L> Dragon Command Staff  
     L> Tide Guardian sets  
-- Zombie Awareness: ZA/LDL compat  
+- Zombie Awareness: Add Dynamic Lights  
 - AE2: Remove Energy Acceptor  
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
@@ -197,11 +205,12 @@
 - GS: Gate Nether behind Sir Pumpkinhead.
 - GS: Gate Ruby behind Wither.
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
-- GS: Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
-- GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound spawn post Wither.
+- GS: Magma Cubes in the Overworld, Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
+- GS: Endermite, Shadow Walker, Phantom Creeper, Dark Vortex can spawn in the Overworld post Ender Dragon.
+- GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound, Immortal, Restless Spirit, Wither Skeletons in the Overworld spawn post Wither.
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
-- GS: Possessed Swords spawn after obtaining Iron gear.
-- BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 30% Netherite byproduct.
+- GS: Possessed Swords spawn after obtaining Tier 2 Tinker's gear.
+- BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
 - GS: Sea Serpents spawn after opening Paradise Lost for the first time.
 - Scaling Health: Disable ores
 - Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, Blights, minibosses when killed for the first time.
@@ -211,3 +220,4 @@
 - Scaling Health: From Stage 4+ Dragons and Sea Serpents: Guaranteed drop on first kill 1-2 Heart Shards.
 - Scaling Health: Blights drop 0-2 Heart Shards.
 - Scaling Health: Maximum health is 20 hearts.
+- LB: Remove Beast Pit
