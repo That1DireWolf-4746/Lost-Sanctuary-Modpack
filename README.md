@@ -17,7 +17,7 @@
 - Post-End: Tier 4 Tinker's materials. New mobs can spawn in the Overworld. Mobs now have increased speed and health. 
 - Post-Wither: Ruby can be found in the Nether. New mobs can spawn in the Overworld and Nether.
 - Paradise Lost Upper Region: Dragonbone, Surtrum, Electrum, Olvite. Tier 5 Tinker's materials. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
-- Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns. Tier 6 Tinker's materials.
+- Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns.
 ### Full Modlist
 - Accessories
 - Additions n More  
@@ -219,6 +219,6 @@
 - Scaling Health: From minibosses: Guaranteed drop 2-5 Heart Shards.
 - Scaling Health: From Stage 4+ Dragons and Sea Serpents: Guaranteed drop on first kill 1-2 Heart Shards.
 - Scaling Health: Blights drop 0-2 Heart Shards.
-- Scaling Health: Maximum health is 20 hearts.
+- Scaling Health: Maximum health from Heart Containers is capped at 15.
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
