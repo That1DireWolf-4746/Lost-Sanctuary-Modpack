@@ -196,15 +196,17 @@
 - GS: Gate Nether behind Sir Pumpkinhead.
 - GS: Gate Ruby behind Wither.
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
-- GS: Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
+- GS: Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether.
 - GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound spawn post Wither.
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
 - GS: Possessed Swords spawn after obtaining Iron gear.
 - BoS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 30% Netherite byproduct.
 - GS: Sea Serpents spawn after opening Paradise Lost for the first time.
 - Scaling Health: Disable ores
-- Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, minibosses when killed for the first time.
+- Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, Blights, minibosses when killed for the first time.
 - Scaling Health: Power Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, when killed for the first time.
 - Scaling Health: From bosses: Guaranteed drop 6 Heart Shards.
 - Scaling Health: From minibosses: Guaranteed drop 2-5 Heart Shards.
 - Scaling Health: From Stage 4+ Dragons and Sea Serpents: Guaranteed drop on first kill 1-2 Heart Shards.
+- Scaling Health: Blights drop 0-2 Heart Shards.
+- Scaling Health: Maximum health is 20 hearts.
