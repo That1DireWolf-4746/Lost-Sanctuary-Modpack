@@ -65,7 +65,8 @@
 - Friendly Fire  
 - fzzy_config
 - Game Stages  
-- Geckolib  
+- Geckolib
+- Hexal (Pre-Release version on GitHub)
 - Hex Casting  
 - Hexcasting Media Display  
 - HexFlow  
