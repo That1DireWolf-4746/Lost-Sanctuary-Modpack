@@ -212,7 +212,7 @@
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
 - GS: Possessed Swords spawn after obtaining Tier 2 Tinker's gear.
 - BiS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
-- GS: Sea Serpents spawn after opening Paradise Lost for the first time. *The serpents awaken from their eons-long slumber...*
+- GS: Sea Serpents spawn after opening Paradise Lost for the first time. *The great serpents awaken from their eons-long slumber...*
 - Scaling Health: Disable ores
 - Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, Blights, minibosses when killed for the first time.
 - Scaling Health: Power Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, when killed for the first time.
