@@ -178,7 +178,8 @@
     L> Dragon Horn Holding (F I L)  
     L> Dragon Command Staff  
     L> Tide Guardian sets  
-- Zombie Awareness: Add Dynamic Lights  
+- Zombie Awareness: Add Dynamic Lights
+- Hex Casting x AE2: Mote-AE2 interop (somehow)
 - AE2: Remove Energy Acceptor  
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
