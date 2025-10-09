@@ -223,3 +223,9 @@
 - Scaling Health: Maximum health from Heart Containers is capped at 15.
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
+- GS: Each Miniboss unlocks new Spells.
+  L> Dread Hound: Allows casting of the Zeniths.
+  L> Sea Serpent: Allows casting of the Weather spells.
+  L> Ender Dragon: Allows casting of the Gates.
+  L> Pumpkinhead: Allows casting of the Nadirs.
+  L> Wither: Allows casting of Flay Mind.
