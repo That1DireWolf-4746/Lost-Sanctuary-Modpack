@@ -200,7 +200,6 @@
     L> [Iron Ingot] [ X ] [ X ]   
     L> [Iron Ingot] [Fluix Crystal] [Iron Ingot]  
 - AE2: Lumen Ball now returns 8x when crafted  
-- Hex Casting/AE2: Add entry for Media Extractor, Immaterial Web, Media Catcher, Shapeless Mind, AE2 "Beyond the Scope of This Journal" entry. <-learn patchouli caz stop putting it off  
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
 - GS: Gate Nether behind Sir Pumpkinhead. *The Dread Harvest deems you worthy...*/*They witness you, in your entirety, and find you wanting...*
@@ -224,11 +223,15 @@
 - Scaling Health: Maximum health from Heart Containers is capped at 15.
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
-- GS: Holding a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
-- GS: Each Miniboss unlocks new Spells. If given a Scroll: *You reel with the knowledge bestowed by the Great Mind's passing...*  
+- Hex Casting: You no longer spawn with a Hex Notebook.
+- GS: Crafting a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
+- GS: Each Miniboss unlocks new Spells.  
   L> Phoenix: Allows casting of Altiora and the Flight spells. If not already learned, gives an Altiora scroll to the player. *For a moment, there, you thought you had wings.*  
   L> Troll: Allows casting of the Zeniths. If not already learned, grants Strength + 1 random Zenith. Future killed trolls grant a random unlearned Zenith. *It burns in you, until you outshine the Sun.*  
-  L> Sea Serpent: Allows casting of the Weather spells. If not already learned, gives all three Weather scrolls to the player. *What is weather, but the tides of the air?*  
-  L> Ender Dragon: Allows casting of the Gate and Teleportation spells. If not already learned, gives a Gate and Greater Teleport scroll to the player. *You are everywhere, and nowhere.*  
+  L> Sea Serpent: Allows casting of the Wisp spells. If not already learned, gives a Consume, Create Cyclic, and Create Projectile scroll to the player. *Shards of memories, they flock to you, ride in your slipstream and the currents you create.*    
+  L> Ender Dragon: Allows casting of the Gate and Teleportation spells. If not already learned, gives a Gate and Greater Teleport scroll to the player. *You are everywhere, and nowhere. Breathe. Dream.*  
   L> Pumpkinhead: Allows casting of the Sentinel spells. If not already learned, gives the Greater Sentinel spell to the player. *The spirits listen and bend to your will.*  
-  L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*  
+  L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*
+  L> Fire Dragon: Allows casting of Create Lava. If not already learned, gives the Create Lava scroll to the player. *You roar, in the burned husk of a forest, your claim, your mark upon the world.*  
+  L> Ice Dragon: Allows casting of Accelerate. If not already learned, gives the Accelerate scroll to the player. *The slow, grinding advance of centuries. So much like a glacier. If you control the ice, why can't you control time?*  
+  L> Lightning Dragon: Allows casting of the Weather spells. If not already learned, gives Weather spell scrolls to the player. *Lightning dances between your spines and rain follows in your wake.*  
