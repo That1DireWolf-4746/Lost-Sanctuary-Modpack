@@ -158,6 +158,7 @@
 - DWPR: Dev weapons - 1/? done  
 - DWPR: Hex Casting nbt staff textures - 14/45 done  
 - Small Ships: Missing Ships textures - 12/45 done
+- PL: Portal instead opened with a Nether Star; consumes the Nether Star upon successful opening.
 - CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
 - Tinker's Mod Compats  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
@@ -204,11 +205,11 @@
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
 - GS: Gate Nether behind Sir Pumpkinhead. *The Dread Harvest deems you worthy...*/*They witness you, in your entirety, and find you wanting...*
 - GS: Gate Ruby behind Wither. *Fires burn in the hearts of once-inert stones...*
-- GS: Gate Paradise behind Dragon. *The Last Dragon cries out for her ancient kin...*/*You are not yet enough to pierce the barrier of Sanctuary...*/*Without a song to resonate with, the energies in the Star lash out...* (Deals 2 hearts damage scaling for each attempt to open the Paradise Lost portal)
+- GS: Gate Paradise portal *creation* behind Dragon. If the Ender Dragon has been defeated in that world, everyone can access Paradise. *The Last Dragon cries out for her ancient kin...*/*You are not yet enough to pierce the barrier of Sanctuary...*/*Without a song to resonate with, the energies in the Star lash out...* (Deals 2 hearts damage scaling for each attempt to open the Paradise Lost portal)
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
-- GS: Magma Cubes in the Overworld, Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether. *The veil between Life and Death thins...*
+- GS: Magma Cubes in the Overworld, Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Bone Stalker, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether. *The veil between Life and Death thins...*
 - GS: Endermite, Shadow Walker, Phantom Creeper, Dark Vortex can spawn in the Overworld once the End opens. *Dark energies bleed from the void beneath the world...*
-- GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Dire Hound, Immortal, Restless Spirit, Wither Skeletons in the Overworld spawn post Wither. *Wailing spirits fly free from their necrotic cage...*
+- GS: Crystalline Golem, Naga, Lifestealer, Nightmare Stalker, Dread Hound, Tree Ent, Witch Doctor, The Furnace, Dire Hound, Immortal, Restless Spirit, Wither Skeletons in the Overworld spawn post Wither. *Wailing spirits fly free from their necrotic cage...*
 - GS: Supreme Bonescaller replaces Bonescaller post Wither.
 - GS: Possessed Swords spawn after obtaining Tier 2 Tinker's gear.
 - BiS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
@@ -223,9 +224,11 @@
 - Scaling Health: Maximum health from Heart Containers is capped at 15.
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
-- GS: Each Miniboss unlocks new Spells.
-  L> Dread Hound: Allows casting of the Zeniths.
-  L> Sea Serpent: Allows casting of the Weather spells.
-  L> Ender Dragon: Allows casting of the Gates.
-  L> Pumpkinhead: Allows casting of the Nadirs.
-  L> Wither: Allows casting of Flay Mind.
+- GS: Holding a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
+- GS: Each Miniboss unlocks new Spells. *You reel with the knowledge bestowed by the Great Mind's passing...*
+  L> Phoenix: Allows casting of Altiora and the Flight spells.  
+  L> Troll: Allows casting of the Zeniths.  
+  L> Sea Serpent: Allows casting of the Weather spells.  
+  L> Ender Dragon: Allows casting of the Gates.  
+  L> Pumpkinhead: Allows casting of the Nadirs.  
+  L> Wither: Allows casting of Flay Mind.  
