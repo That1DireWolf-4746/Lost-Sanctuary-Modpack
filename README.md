@@ -233,7 +233,7 @@
   L> Sea Serpent: Allows casting of the Wisp spells. If not already learned, gives a Consume, Create Cyclic, and Create Projectile scroll to the player. *Shards of memories, they flock to you, ride in your slipstream and the currents you create.*    
   L> Ender Dragon: Allows casting of the Gate and Teleportation spells. If not already learned, gives a Gate and Greater Teleport scroll to the player. *You are everywhere, and nowhere. Breathe. Dream.*  
   L> Pumpkinhead: Allows casting of the Sentinel spells. If not already learned, gives the Greater Sentinel spell to the player. *The spirits listen and bend to your will.*  
-  L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*
+  L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*  
   L> Fire Dragon: Allows casting of Create Lava. If not already learned, gives the Create Lava scroll to the player. *You roar, in the burned husk of a forest, your claim, your mark upon the world.*  
   L> Ice Dragon: Allows casting of Accelerate. If not already learned, gives the Accelerate scroll to the player. *The slow, grinding advance of centuries. So much like a glacier. If you control the ice, why can't you control time?*  
   L> Lightning Dragon: Allows casting of the Weather spells. If not already learned, gives Weather spell scrolls to the player. *Lightning dances between your spines and rain follows in your wake.*  
