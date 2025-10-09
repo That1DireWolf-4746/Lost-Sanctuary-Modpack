@@ -224,7 +224,7 @@
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
 - GS: Holding a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
-- GS: Each Miniboss unlocks new Spells. *You reel with the knowledge bestowed by the Great Mind's passing...*
+- GS: Each Miniboss unlocks new Spells. *You reel with the knowledge bestowed by the Great Mind's passing...*  
   L> Phoenix: Allows casting of Altiora and the Flight spells.  
   L> Troll: Allows casting of the Zeniths.  
   L> Sea Serpent: Allows casting of the Weather spells.  
