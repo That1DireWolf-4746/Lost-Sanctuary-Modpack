@@ -161,12 +161,12 @@
 - PL: Portal instead opened with a Nether Star; consumes the Nether Star upon successful opening.
 - CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
 - Tinker's Mod Compats  
-  L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits
-  L> Serpent Scales, Shiny Scales, Dragon Scales as Armour materials with relevant stats
-  L> Olvite, Surtrum, Gilded Gold retextured and instead melts into unused Tinker's materials
-  L> Gilded Gold melts into 1.5x the amount of gold regular gold melts into with some of Silver and Electrum byproduct.
-  L> Olvite melts into Lead.
-  L> Surtrum melts into Pewter with some Seared Stone byproduct.
+  L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits  
+  L> Serpent Scales, Shiny Scales, Dragon Scales as Armour materials with relevant stats  
+  L> Olvite, Surtrum, Gilded Gold retextured and instead melts into unused Tinker's materials  
+  L> Gilded Gold melts into 1.5x the amount of gold regular gold melts into with some of Silver and Electrum byproduct.  
+  L> Olvite melts into Lead.  
+  L> Surtrum melts into Pewter with some Seared Stone byproduct.  
 - Tinker's Construct: Remove vanilla gear crafting recipes and staffs
 - Hybrid Aquatic: Remove equippable gear because they conflict with accessories for some reason
 - Immersive Aircraft: Remove everything except for Biplane and Airship
@@ -188,8 +188,7 @@
 - AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
-    L> Add Amethyst to Fuel recipe
-    L> Remove base Fuel recipes
+    L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal  
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
 - AE2: Remove Sky Stone Chests  
 - AE2: Remove Tiny TNT - learn Hex Casting instead :)  
