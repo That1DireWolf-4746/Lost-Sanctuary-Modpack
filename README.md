@@ -70,7 +70,8 @@
 - Hexcasting Media Display  
 - HexFlow  
 - Hex Pigment Plus  
-- HexPose  
+- HexPose
+- HexStages
 - Hybrid Aquatic  
 - Ice and Fire: Community Edition  
 - Immersive Aircraft  
@@ -224,10 +225,10 @@
 - LB: Remove Beast Pit
 - BiS: Remove Scorched woodset.
 - GS: Holding a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
-- GS: Each Miniboss unlocks new Spells. *You reel with the knowledge bestowed by the Great Mind's passing...*  
-  L> Phoenix: Allows casting of Altiora and the Flight spells.  
-  L> Troll: Allows casting of the Zeniths.  
-  L> Sea Serpent: Allows casting of the Weather spells.  
-  L> Ender Dragon: Allows casting of the Gates.  
-  L> Pumpkinhead: Allows casting of the Nadirs.  
-  L> Wither: Allows casting of Flay Mind.  
+- GS: Each Miniboss unlocks new Spells. If given a Scroll: *You reel with the knowledge bestowed by the Great Mind's passing...*  
+  L> Phoenix: Allows casting of Altiora and the Flight spells. If not already learned, gives an Altiora scroll to the player. *For a moment, there, you thought you had wings.*  
+  L> Troll: Allows casting of the Zeniths. If not already learned, grants Strength + 1 random Zenith. Future killed trolls grant a random unlearned Zenith. *It burns in you, until you outshine the Sun.*  
+  L> Sea Serpent: Allows casting of the Weather spells. If not already learned, gives all three Weather scrolls to the player. *What is weather, but the tides of the air?*  
+  L> Ender Dragon: Allows casting of the Gate and Teleportation spells. If not already learned, gives a Gate and Greater Teleport scroll to the player. *You are everywhere, and nowhere.*  
+  L> Pumpkinhead: Allows casting of the Sentinel spells. If not already learned, gives the Greater Sentinel spell to the player. *The spirits listen and bend to your will.*  
+  L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*  
