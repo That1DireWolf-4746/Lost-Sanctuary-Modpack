@@ -190,8 +190,8 @@
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
     L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal
-- AE2/Hex Casting: Remove ME drawers and change ME Drive recipe + rename "Mote Nexus Core"
-- AE2/Hex Casting: Rename ME Chest to "Mote Library"
+- AE2/Hex Casting: Remove ME chest and change ME Drive recipe + rename "Mote Nexus Core"
+- AE2/Hex Casting: Rename ME drawer to "Mote Library"
 - AE2/Hex Casting: Mote Nexus drops an ME Drive and empty Mote Nexus on break
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
 - AE2: Remove Sky Stone Chests  
