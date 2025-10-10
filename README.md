@@ -122,7 +122,6 @@
 - Re-Dimension Stages  
 - Respawnable Pets
 - Rotten Creatures  
-- RPG Origins Paths  
 - Save Dragon Egg from the Void
 - Scaling Health
 - Silent Lib
