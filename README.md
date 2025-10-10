@@ -181,10 +181,12 @@
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
 - AE2: Add Presses to Village Library and Blacksmith chest loot tables    
-- AE2: Processors tier 2 rename and retexture to "Logician's Mind", "Mathematician's Mind", "Engineer's Mind", crafted with a Mote and a Shard of Quenched Allay.
-- AE2: Processors tier 1 rename and retexture to "Logician's Mote", "Mathematician's Mote", "Engineer's Mote", crafted by templating an Imprint into Resonant Clay.
-- AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", found in Village chests.
+- AE2: Processors rename and retexture to "Logician's Mind", "Mathematician's Mind", "Engineer's Mind", crafted with a Shard of Quenched Allay.
+- AE2: Circuits rename and retexture to "Logician's Mote", "Mathematician's Mote", "Engineer's Mote", crafted with the required materials and Resonant Clay.
+- AE2: Presses rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", found in Village chests.
 - AE2: Silicone rename to Resonant Clay, crafted with Clay and Amethyst Dust.
+- AE2: Processors are used in the creation of 64K, 128K, 256K Storage components, anything requiring an Advanced Card, Quantum items, Spatial Storage items, I/O Port, Crafting CPU, anything Wireless, Cell Workbench, Dense Energy Cell
+- AE2: Circuits are used in the creation of 1K, 4K, 16K Storage components, anything requiring a Basic Card, Entropy Manipulator, ME Controller and Drive, Crafting Unit, Terminals, Formation and Annihilation Core, Network Tool, Memory Card, Emitters, anything P2P.
 - AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - Hexal: Remove Motes. Item interaction must be done explicitly through AE2.
