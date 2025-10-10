@@ -212,9 +212,8 @@
 - GS: Possessed Swords spawn after obtaining Tier 2 Tinker's gear.
 - BiS: Remove all items except Hound Trap, Lantern, Soulbane. Dark Metal can be melted down into Steel with a 10% Netherite byproduct.
 - GS: Sea Serpents spawn after opening Paradise Lost for the first time. *The great serpents awaken from their eons-long slumber...*
-- Scaling Health: Disable ores
+- Scaling Health: Disable ores and Power shards.
 - Scaling Health: Heart Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, Stage 4+ Dragons, Blights, minibosses when killed for the first time.
-- Scaling Health: Power Shards instead drop from Sea Serpents, Ender Dragon, Wither, Sir Pumpkinhead, Lord Pumpkinhead, when killed for the first time.
 - Scaling Health: From bosses: Guaranteed drop 6 Heart Shards.
 - Scaling Health: From minibosses: Guaranteed drop 2-5 Heart Shards.
 - Scaling Health: From Stage 4+ Dragons and Sea Serpents: Guaranteed drop on first kill 1-2 Heart Shards.
