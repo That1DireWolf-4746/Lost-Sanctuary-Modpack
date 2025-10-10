@@ -189,7 +189,10 @@
 - AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
-    L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal  
+    L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal
+- AE2/Hex Casting: Remove ME drawers and change ME Drive recipe + rename "Mote Nexus Core"
+- AE2/Hex Casting: Rename ME Chest to "Mote Library"
+- AE2/Hex Casting: Mote Nexus drops an ME Drive and empty Mote Nexus on break
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
 - AE2: Remove Sky Stone Chests  
 - AE2: Remove Tiny TNT - learn Hex Casting instead :)  
