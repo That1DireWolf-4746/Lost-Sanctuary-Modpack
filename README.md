@@ -115,7 +115,8 @@
 - PAUCAL
 - Pehkui
 - Pet Armor  
-- Persistent Effects  
+- Persistent Effects
+- Platform  
 - Porting Lib
 - Radiant Gear
 - Random Tinkers' Tweaks
