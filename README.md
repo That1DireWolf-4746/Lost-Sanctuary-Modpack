@@ -181,7 +181,7 @@
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
 - AE2: Add Presses to Village Library and Blacksmith chest loot tables    
-- AE2: Processors rename and retexture to "Logician's Mind", "Mathematician's Mind", "Engineer's Mind", crafted with a Shard of Quenched Allay.
+- AE2: Processors rename and retexture to "Logician's Mind", "Mathematician's Mind", "Engineer's Mind", crafted with the required materials and a Shard of Quenched Allay.
 - AE2: Circuits rename and retexture to "Logician's Mote", "Mathematician's Mote", "Engineer's Mote", crafted with the required materials and Resonant Clay.
 - AE2: Presses rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", found in Village chests.
 - AE2: Silicone rename to Resonant Clay, crafted with Clay and Amethyst Dust.
