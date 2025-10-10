@@ -158,7 +158,6 @@
 - DWPR: Dev weapons - 1/? done  
 - DWPR: Hex Casting nbt staff textures - 14/45 done  
 - Small Ships: Missing Ships textures - 12/45 done
-- PL: Portal instead opened with a Nether Star; consumes the Nether Star upon successful opening.
 - CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
 - Tinker's Mod Compats  
   L> Serpent Tooth, Hippogryph Talon, Hydra Fang can be used as Short Blade with relevant traits  
