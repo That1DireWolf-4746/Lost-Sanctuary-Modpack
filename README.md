@@ -206,7 +206,7 @@
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
 - GS: Gate Nether behind Sir Pumpkinhead. *The Dread Harvest deems you worthy...*/*They witness you, in your entirety, and find you wanting...*
 - GS: Gate Ruby behind Wither. *Fires burn in the hearts of once-inert stones...*
-- GS: Gate Paradise portal *creation* behind Dragon. If the Ender Dragon has been defeated in that world, everyone can access Paradise. *The Last Dragon cries out for her ancient kin...*/*You are not yet enough to pierce the barrier of Sanctuary...*/*Without a song to resonate with, the energies in the Star lash out...* (Deals 2 hearts damage scaling for each attempt to open the Paradise Lost portal)
+- GS: Gate Paradise portal behind Dragon. If the Ender Dragon has been defeated in that world, everyone can access Paradise. *The Last Dragon cries out for her ancient kin...*/*You are not yet enough to pierce the barrier of Sanctuary...*
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
 - GS: Magma Cubes in the Overworld, Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Bone Stalker, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether. *The veil between Life and Death thins...*
 - GS: Endermite, Shadow Walker, Phantom Creeper, Dark Vortex can spawn in the Overworld once the End opens. *Dark energies bleed from the void beneath the world...*
