@@ -186,8 +186,6 @@
 - AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", "Malleable Mind"  
 - AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
-- AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
-    L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal
 - Hexal: Remove Motes. Item interaction must be done explicitly through AE2.
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
 - AE2: Remove Sky Stone Chests  
