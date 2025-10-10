@@ -192,6 +192,7 @@
 - AE2/Hex Casting: Remove ME chest and change ME Drive recipe + rename "Mote Nexus Core"
 - AE2/Hex Casting: Rename ME drawer to "Mote Library"
 - AE2/Hex Casting: Mote Nexus drops an ME Drive and empty Mote Nexus on break
+- AE2/Hex Casting: Explicitly allow AE2 interop; treat Mote Nexus as part of AE2 systems and fix the item duping bug
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
 - AE2: Remove Sky Stone Chests  
 - AE2: Remove Tiny TNT - learn Hex Casting instead :)  
