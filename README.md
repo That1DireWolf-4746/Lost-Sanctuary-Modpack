@@ -177,7 +177,6 @@
     L> Dragon Command Staff  
     L> Tide Guardian sets  
 - Zombie Awareness: Add Dynamic Lights
-- Hex Casting x AE2: Fork AE2 to add Hexal Mote Nexus interactions to a ME Chest with Drive inserted
 - AE2: Remove Energy Acceptor  
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
@@ -190,7 +189,8 @@
 - AE2/Hex Casting: Change Vibration Chamber crafting recipe and rename to "Media Extractor"  
     L> Add Amethyst to Fuel recipe, 1 Amethyst = 1.2 Coal
 - AE2/Hex Casting: change ME Drive recipe to Infusion + rename "Mote Nexus Core"
-- AE2/Hex Casting: change ME Chest to "Mote Nexus Frame" + change crafting recipe, remove Hexal Mote Nexus
+- AE2/Hex Casting: add crafted Mote Nexus recipe, remove Infusion recipe
+- AE2/Hex Casting: remove ME Chest
 - AE2/Hex Casting: Rename ME drawer to "Mote Library"
 - AE2/Hex Casting: Explicitly allow AE2 interop; treat Mote Nexus as part of AE2 systems and fix the item duping bug
 - AE2: Rename CQ Fixture to CQ Sconce, retexture and change recipe to match Amethyst Sconce  
