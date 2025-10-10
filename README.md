@@ -87,7 +87,6 @@
 - Lithostitched  
 - Lodestone  
 - Lootr
-- Loot Stages
 - Luminous: Beasts  
 - Mantle  
 - MemoryLeakFix
@@ -124,7 +123,6 @@
 - Rotten Creatures  
 - Save Dragon Egg from the Void
 - Scaling Health
-- SDM GameStages Helper
 - Silent Lib
 - Simple Boss Damage Cap  
 - Small Ships  
