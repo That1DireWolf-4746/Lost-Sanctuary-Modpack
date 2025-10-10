@@ -125,6 +125,7 @@
 - Rotten Creatures  
 - Save Dragon Egg from the Void
 - Scaling Health
+- SDM GameStages Helper
 - Silent Lib
 - Simple Boss Damage Cap  
 - Small Ships  
