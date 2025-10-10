@@ -181,9 +181,8 @@
 - AE2: Retexture to amethyst/slate/gold theme instead of base grey/blue/white  
 - AE2: Remove Mysterious Cube  
 - AE2: Add Presses to Village Library and Blacksmith chest loot tables    
-- AE2: Processor rename and retexture to "Crystallized Logician's Mind", "Crystallized Mathematician's Mind", "Crystallized Engineer's Mind"  
-- AE2: Silicone is made with 1x Clay and 1x Amethyst Dust for 2x Silicone and renamed "Shapeless Mind", slight retexture  
-- AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint", "Malleable Mind"  
+- AE2: Processor rename and retexture to "Logician's Mind", "Mathematician's Mind", Engineer's Mind", crafted with an Imprint and a Shard of Quenched Allay.  
+- AE2: Circuits rename and retexture "Logician's Imprint", "Mathematician's Imprint", "Engineer's Imprint"  
 - AE2/Paradise Lost: Metamorphic Shell -> Sky Stone. Sky Stone Blockset is removed. Retexture Sky Stone Dust.
 - AE2/Hex Casting: Change Crystal Resonance crafting recipe, rename to "Media Catcher"  
 - Hexal: Remove Motes. Item interaction must be done explicitly through AE2.
