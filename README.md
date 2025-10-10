@@ -72,7 +72,6 @@
 - HexFlow  
 - Hex Pigment Plus  
 - HexPose
-- HexStages
 - Hybrid Aquatic  
 - Ice and Fire: Community Edition  
 - Immersive Aircraft  
