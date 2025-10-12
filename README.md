@@ -238,4 +238,3 @@
 - <img width="1526" height="1128" alt="2025_10_11_12g_Kleki" src="https://github.com/user-attachments/assets/4464f483-7fa3-4e2a-8f4e-846f2f04a6c5" />
 - Ice and Fire x Paradise Lost: Any Stage 1-3 non-Sickly dragon outside Sanctuary has a chance every day of gaining the 'Stunted' tag. A dragon with the Stunted tag permanently has its health, size, damage multiplied by 0.8x compared to a regular dragon of its kind. If the dragon is within the same chunk as a Paradise portal, instead a chance every two days.
 - Ice and Fire x Paradise Lost: Stage 5 Wild dragons have a unique texture, due to how long they have slept beneath the waves.
-- Ice and Fire x Paradise Lost: A dragon that has been raised fully inside Sanctuary *and* fed the heart of an adult from its kind gains the 'Awoken' tag. A dragon with the Awoken tag has its health and damage multiplied by 1.1x compared to a regular Stage 5 dragon, and gains a custom texture.
