@@ -7,7 +7,7 @@
 - Sodium + Addons  
 - No Telemetry  
 - Figura  
-- Any recipe browser mod  
+- EMI  
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected
@@ -77,6 +77,7 @@
 - Immersive Aircraft  
 - Immersive Machinery  
 - Jupiter
+- Just Enough Items
 - Kambrik
 - Kilt  
 - Krypton  
