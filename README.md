@@ -250,3 +250,4 @@
 - L> Ice dragons: 0.8x Movement Speed, 0.9x Damage, 1.25x Health + Proximity to an Ice Dragon gives Resistance II and Water Breathing I.
 - L> Lightning Dragons: 1.5x Movement Speed, 1x Damage, 0.8x Health, + Proximity to a Lightning Dragon gives a 0.75x multiplier to spell costs.
 - Hex Casting x Ice and Fire: Dragons cannot be directly affected by Spells.
+- Hex Casting x Ice and Fire: Any Wisps within ambit of a dragon are deleted and the dragon heals by half of however much media the wisp contains.
