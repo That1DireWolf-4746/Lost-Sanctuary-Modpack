@@ -241,6 +241,7 @@
 - Ice and Fire x TCon: TCon dragonscales retexture + rename Ender Dragon Scales.
 - Ice and Fire x Paradise Lost: Any Stage 1-3 non-Sickly dragon outside Paradise Lost or the Undergarden has a chance every day of gaining the 'Stunted' tag. A dragon with the Stunted tag permanently has its health, size, damage multiplied by 0.8x compared to a regular dragon of its kind. If the dragon is within the same chunk as a Paradise portal, instead a chance every two days. Stunted and Umbral are mutually exclusive; a Stunted dragon cannot become Umbral.
 - Ice and Fire x Undergarden: Change portal to use Dragon Bricks instead. Ender Dragon Scales can also be used to craft Dragon Bricks, using the Dreadstone Bricks block.
+- BURNT Basic: Implement primary/secondary succession in burned areas
 - Ice and Fire x Undergarden: Dragonsteel requires the Undergarden ores to create: Frosteel for Ice Dragonsteel, Utherium for Fire Dragonsteel, and Cloggrum for Lightning Dragonsteel.
 - Undergarden: Give Utherium Cloggrum's stats, rename Cloggrum to Citrine, make Citrine a direct upgrade of Certus Quartz with some Hex Casting utility. Add all three to Tinker's.
 - Ice and Fire: If the dragon is instead in the End, instead gain the 'Ender' tag. A dragon with the Ender tag has its texture darkened to resemble the Ender Dragon and its breath is replaced with Dragon Charges. Ender and Umbral are mutually exclusive; an Umbral dragon cannot become Ender, and vice versa.
