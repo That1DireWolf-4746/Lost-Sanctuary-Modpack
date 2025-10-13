@@ -243,7 +243,8 @@
 - Ice and Fire x Undergarden: Change portal to use Dragon Bricks instead. Ender Dragon Scales can also be used to craft Dragon Bricks, using the Dreadstone Bricks block.
 - BURNT Basic: Implement primary/secondary succession in burned areas
 - Ice and Fire x Undergarden: Dragonsteel requires the Undergarden ores to create: Frosteel for Ice Dragonsteel, Utherium for Fire Dragonsteel, and Cloggrum for Lightning Dragonsteel.
-- Undergarden: Give Utherium Cloggrum's stats, rename Cloggrum to Citrine, make Citrine a direct upgrade of Certus Quartz with some Hex Casting utility. Add all three to Tinker's.
+- Undergarden: rename Cloggrum to Citrine, make Citrine a direct upgrade of Certus Quartz with some Hex Casting utility. Add all three to Tinker's.
+- Undergarden: Buff Forgotten to on par with Dragonbone, add to TInker's.
 - Ice and Fire: If the dragon is instead in the End, instead gain the 'Ender' tag. A dragon with the Ender tag has its texture darkened to resemble the Ender Dragon and its breath is replaced with Dragon Charges. Ender and Umbral are mutually exclusive; an Umbral dragon cannot become Ender, and vice versa.
 - Ice and Fire x Undergarden: Wild dragons have a unique texture, due to how long they have slept beneath the surface.
 - Ice and Fire x Undergarden: Any dragon hatched within the Undergarden gains the 'Umbral' tag, with a unique texture and heightened elemental characteristics: Fire dragons are all damage and blazing fast attacks; Ice dragons are slow and methodical; Lightning dragons spark with energy and live as conduits for Nature's might. Leaving the Undergarden before the dragon is fully grown removes the Umbral tag. Umbral is mutually exclusive with Stunted and Ender.
