@@ -33,7 +33,7 @@
 - Boids
 - Born in Chaos
 - Bountiful
-- Bountiful Baubles - Reforked  
+- Burnt Basic
 - Cardinal Components API  
 - Chunk Loader Persistence
 - Chime  
@@ -136,6 +136,7 @@
 - Terralith
 - Tinkers' Construct
 - The Murk
+- The Undergarden
 - Torches n Trinkets
 - Trinkets Compat Layer for Accessories  
 - True Darkness Refabricated
@@ -221,7 +222,7 @@
 - Scaling Health: Blights drop 0-2 Heart Shards.
 - Scaling Health: Maximum health from Heart Containers is capped at 15.
 - LB: Remove Beast Pit
-- BiS: Remove Scorched woodset.
+- BiC: Remove Scorched woodset.
 - Hex Casting: You no longer spawn with a Hex Notebook.
 - GS: Crafting a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
 - GS: Each Miniboss unlocks new Spells.  
