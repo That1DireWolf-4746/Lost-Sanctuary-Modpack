@@ -12,12 +12,12 @@
 - Astrocraft  
 - Sound Physics Perfected
 ### Intended Progression
-- Pre-Nether: Wood to Iron. Tier 1 and 2 Tinker's materials. 
-- Post-Nether: Foundry unlock. Allows crafting and use of Diamond and Netherite tools via TCon smelting/alloying. Tier 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld. 
+- Pre-Boss: Wood to Iron. Tier 1 and 2 Tinker's materials. 
+- Nether 1: Foundry unlock. Allows crafting and use of Steel Diamond and Netherite tools via TCon smelting/alloying. Tier 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld.
+- Paradise Lost: Dragonbone, Surtrum, Electrum, Olvite. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
 - Post-End: Tier 4 Tinker's materials. New mobs can spawn in the Overworld. Mobs now have increased speed and health. 
-- Post-Wither: Ruby can be found in the Nether. New mobs can spawn in the Overworld and Nether.
-- Paradise Lost Upper Region: Dragonbone, Surtrum, Electrum, Olvite. Tier 5 Tinker's materials. Mobs now have increased damage and speed. New mobs can spawn in the Overworld.
-- Paradise Lost Lower Region: Dragonsteel. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns.
+- Post-Wither/Nether 2: Ruby can be found in the Nether. New mobs can spawn in the Overworld and Nether.
+- The Undergarden: Tier 5 Tinker's materials. Dragonsteel, Forgotten. High-health dragons have a Boss Damage Cap active, meaning they cannot be oneshot by Hex Railguns.
 ### Full Modlist
 - Accessories
 - Additions n More  
@@ -253,3 +253,4 @@
 - L> Lightning Dragons: 1.25x Movement Speed, 1x Damage, 0.9x Health, + Proximity to a Lightning Dragon gives a 0.75x multiplier to spell costs.
 - Hex Casting x Ice and Fire: Dragons cannot be directly affected by Spells.
 - Hex Casting x Ice and Fire: Any Wisps within ambit of a dragon are deleted and the dragon heals by half of however much media the wisp contains.
+- Rebalance Forgotten as an inbetween of Cloggrum and Dragonsteel. Rebalance Undergarden ores to approximately Dragonbone/Tinker's Tier 4.
