@@ -5,7 +5,7 @@
 - Frostbite and Brimstone  
 ### Suggested Client-side Mods
 - Not Enough Animations  
-- Figura  
+- Figura - If using Figura, remember to disable armour rendering! Figura + Chime + Cosmetic Armour Reworked crashes when rendering Tinker's armour in the cosmetic slot.  
 - EMI  
 - Any connected textures mod  
 - Astrocraft  
