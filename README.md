@@ -45,7 +45,7 @@
 - Connectible Chains
 - CoroUtil  
 - CraftTweaker
-- Cosmetic Armor
+- Cosmetic Armor Reworked
 - Creatures Expanded  
 - Deeper Oceans Refabricated
 - Do A Barrel Roll  
