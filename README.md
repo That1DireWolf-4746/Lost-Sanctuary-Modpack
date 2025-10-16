@@ -4,8 +4,7 @@
 - True Dovah  
 - Frostbite and Brimstone  
 ### Suggested Client-side Mods
-- Sodium + Addons  
-- No Telemetry  
+- Not Enough Animations  
 - Figura  
 - EMI  
 - Any connected textures mod  
@@ -75,7 +74,8 @@
 - Hybrid Aquatic  
 - Ice and Fire: Community Edition  
 - Immersive Aircraft  
-- Immersive Machinery  
+- Immersive Machinery
+- Indium
 - Jupiter
 - Just Enough Items
 - Kambrik
@@ -127,7 +127,8 @@
 - Silent Lib
 - Simple Boss Damage Cap  
 - Small Ships  
-- SmartBrainLib  
+- SmartBrainLib
+- Sodium  
 - Soul Fire'd
 - Statement  
 - Stonecutter Damage  
