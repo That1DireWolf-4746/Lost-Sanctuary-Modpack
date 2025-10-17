@@ -42,7 +42,8 @@
 - Cobweb  
 - Concurrent Chunk Management Engine
 - Connectible Chains
-- CoroUtil  
+- CoroUtil
+- CorpseComplex Unofficial
 - CraftTweaker
 - Cosmetic Armor Reworked
 - Creatures Expanded  
@@ -50,7 +51,9 @@
 - Do A Barrel Roll  
 - Dungeons and Taverns Stronghold
 - Encumbering Stone  
-- Ender Dragon Fight Remastered  
+- Ender Dragon Fight Remastered
+- Epic Fight Mod
+- Epic Tweaks
 - Entity Model Features  
 - Entity Texture Features  
 - Fabric API  
@@ -197,7 +200,7 @@
 - AE2: Remove Sky Stone Chests  
 - AE2: Remove Tiny TNT - learn Hex Casting instead :)  
 - AE2: Remove Charged Compass and recipe  
-- AE2/Hex Casting: Allow for charging Artifacts from Charger  
+- AE2/Hex Casting: Allow for charging Artifacts from Charger (CraftTweaker + data manipulation yeyyyyyyyyyyyyyyyy)  
 - AE2/Hex Casting: Change Charger crafting recipe  
     L> [Iron Ingot] [Copper Ingot] [Iron Ingot]  
     L> [Iron Ingot] [ X ] [ X ]   
@@ -254,3 +257,5 @@
 - Hex Casting x Ice and Fire: Dragons cannot be directly affected by Spells.
 - Hex Casting x Ice and Fire: Any Wisps within ambit of a dragon are deleted and the dragon heals by half of however much media the wisp contains.
 - Rebalance Forgotten as an inbetween of Cloggrum and Dragonsteel. Rebalance Undergarden ores to approximately Dragonbone/Tinker's Tier 4.
+- EFM x Tinker's
+- CCU tweaks (keep held item with reduced dura, keep armour with reduced dura, respawn with 3 missing hunger)
