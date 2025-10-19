@@ -52,8 +52,6 @@
 - Dungeons and Taverns Stronghold
 - Encumbering Stone  
 - Ender Dragon Fight Remastered
-- Epic Fight Mod
-- Epic Tweaks
 - Entity Model Features  
 - Entity Texture Features  
 - Fabric API  
@@ -256,5 +254,4 @@
 - Hex Casting x Ice and Fire: Dragons cannot be directly affected by Spells.
 - Hex Casting x Ice and Fire: Any Wisps within ambit of a dragon are deleted and the dragon heals by half of however much media the wisp contains.
 - Rebalance Forgotten as an inbetween of Cloggrum and Dragonsteel. Rebalance Undergarden ores to approximately Dragonbone/Tinker's Tier 4.
-- EFM x Tinker's
 - CCU tweaks (keep held item with reduced dura, keep armour with reduced dura, respawn with 3 missing hunger)
