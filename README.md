@@ -161,7 +161,6 @@
 - Zipline  
 - Zombie Awareness  
 ### TODO
-- DWPR: Dev weapons - 1/? done  
 - DWPR: Hex Casting nbt staff textures - 14/? done  
 - Small Ships: Missing Ships textures - 12/? done
 - CE: Remove Gloom itemset. Gloomweavers instead drop Mist Essence.
