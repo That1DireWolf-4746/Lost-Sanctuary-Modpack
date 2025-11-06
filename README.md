@@ -6,10 +6,12 @@
 ### Suggested Client-side Mods
 - Not Enough Animations  
 - Figura - If using Figura, remember to disable armour rendering! Figura + Chime + Cosmetic Armour Reworked crashes when rendering Tinker's armour in the cosmetic slot.  
-- EMI  
 - Any connected textures mod  
 - Astrocraft  
 - Sound Physics Perfected
+- Sodium + Addons
+## Mod Changes for Compat (if you add them)
+- Origins + Addons: Disable custom dimension/alternative dimension start origins. (eg. Blazeborn)
 ### Intended Progression
 - Pre-Boss: Wood to Iron. Tier 1 and 2 Tinker's materials. 
 - Nether 1: Foundry unlock. Allows crafting and use of Steel Diamond and Netherite tools via TCon smelting/alloying. Tier 3 Tinker's materials. Mobs now have increased damage. New mobs can spawn in the Overworld.
@@ -24,7 +26,7 @@
 - Appleskin  
 - Applied Energistics 2  
 - Aquatic Torches  
-- Architectury API
+- Architectury API  
 - Bases Not Safe  
 - BetterEnd  
 - BetterNether  
@@ -50,6 +52,7 @@
 - Deeper Oceans Refabricated
 - Do A Barrel Roll  
 - Dungeons and Taverns Stronghold
+- EMI
 - Encumbering Stone  
 - Ender Dragon Fight Remastered
 - Entity Model Features  
@@ -76,6 +79,7 @@
 - Ice and Fire: Community Edition  
 - Immersive Aircraft  
 - Immersive Machinery
+- Immersive Combat 1.20.1 Port (Work in progress)
 - Indium
 - Jupiter
 - Just Enough Items
@@ -226,10 +230,10 @@
 - BiC: Remove Scorched woodset.
 - Hex Casting: You no longer spawn with a Hex Notebook.
 - GS: Crafting a Staff or the Hex Notebook allows you to gain Hex-related Gamestages. *The amethyst pulses in tune with your thoughts...*
-- GS: Each Miniboss unlocks new Spells.  
+- GS: Each Miniboss unlocks a Great Spell.  
   L> Phoenix: Allows casting of Altiora and the Flight spells. If not already learned, gives an Altiora scroll to the player. *For a moment, there, you thought you had wings.*  
   L> Troll: Allows casting of the Zeniths. If not already learned, grants Strength + 1 random Zenith. Future killed trolls grant a random unlearned Zenith. *It burns in you, until you outshine the Sun.*  
-  L> Sea Serpent: Allows casting of the Wisp spells. If not already learned, gives a Consume, Create Cyclic, and Create Projectile scroll to the player. *Shards of memories, they flock to you, ride in your slipstream and the currents you create.*    
+  L> Sea Serpent: Allows casting of the Wisp spells. If not already learned, gives a Consume Wisp scroll to the player. *Shards of memories, they flock to you, ride in your slipstream and the currents you create.*    
   L> Ender Dragon: Allows casting of the Gate and Teleportation spells. If not already learned, gives a Gate and Greater Teleport scroll to the player. *You are everywhere, and nowhere. Breathe. Dream.*  
   L> Pumpkinhead: Allows casting of the Sentinel spells. If not already learned, gives the Greater Sentinel spell to the player. *The spirits listen and bend to your will.*  
   L> Wither: Allows casting of Flay Mind. If not already learned, gives the Flay Mind scroll to the player. *You freeze under a tide of foreign power, fueled by stolen souls.*  
@@ -239,15 +243,15 @@
 - Ice and Fire x Undergarden x Paradise Lost: The Undergarden was once the home of the Dragons. Long ago the media in the Garden soured and the Ancient dragons burrowed underground to hibernate. As they slept, the Garden changed. What once was lush and green became twisted, rotted, sickly. The young dragons fled across the Realms, finally happening upon the Skylands and naming it Paradise Lost after their ancestral home. Paradise Lost has all a dragon needs to survive, its ambient media light and inviting, but not enough to thrive. The dragons in Paradise eventually became the last dragons to still actively fly, stunted in their growth by lack of prey and territory.
 - DWPR x Ice and Fire: Ender Dragon remodel and retexture based on Ice and Fire's dragons. She was a Lightning dragon, the excess media crackling between her spines instead turning into a corrosive glowing acid. Dragon Egg -> Ossified Heart. The implications will be left as an exercise to the reader.
 - Ice and Fire x TCon: TCon dragonscales retexture + rename Ender Dragon Scales.
-- Ice and Fire x Paradise Lost: Any Stage 1-3 non-Sickly dragon outside Paradise Lost or the Undergarden has a chance every day of gaining the 'Stunted' tag. A dragon with the Stunted tag permanently has its health, size, damage multiplied by 0.8x compared to a regular dragon of its kind. If the dragon is within the same chunk as a Paradise portal, instead a chance every two days. Dragons cannot progress past Stage 3 outside Paradise Lost. Stunted and Umbral are mutually exclusive; a Stunted dragon cannot become Umbral.
+- Ice and Fire x Paradise Lost: Any Stage 1-3 non-Sickly dragon outside Paradise Lost or the Undergarden has a chance every day of gaining the 'Stunted' tag. A dragon with the Stunted tag permanently has its health, size, damage multiplied by 0.8x compared to a regular dragon of its kind and cannot progress past Stage 2. If the dragon is within the same chunk as a Paradise portal, instead a chance every two days. Stunted and Umbral are mutually exclusive; a Stunted dragon cannot become Umbral.
 - Ice and Fire x Undergarden: Change portal to use Dragon Bricks instead. Ender Dragon Scales can also be used to craft Dragon Bricks, using the Dreadstone Bricks block.
 - BURNT Basic: Implement primary/secondary succession in burned areas
 - Ice and Fire x Undergarden: Dragonsteel requires the Undergarden ores to create: Frosteel for Ice Dragonsteel, Utherium for Fire Dragonsteel, and Cloggrum for Lightning Dragonsteel.
 - Undergarden: rename Cloggrum to Citrine, make Citrine a direct upgrade of Certus Quartz with some Hex Casting utility. Add all three to Tinker's.
-- Undergarden: Buff Forgotten to on par with Dragonbone, add to TInker's.
-- Ice and Fire: If the dragon is instead in the End, instead gain the 'Ender' tag. A dragon with the Ender tag has its texture darkened to resemble the Ender Dragon and its breath is replaced with Dragon Charges. Ender and Umbral are mutually exclusive; an Umbral dragon cannot become Ender, and vice versa.
+- Undergarden: Buff Forgotten to on par with Dragonbone, add to Tinker's.
+- Ice and Fire: If the dragon is instead in the End, instead gain the 'Ender' tag. A dragon with the Ender tag has its texture darkened to resemble the Ender Dragon and is abel to heal from nearby End Crystals. Ender and Umbral are mutually exclusive; an Umbral dragon cannot become Ender, and vice versa.
 - Ice and Fire x Undergarden: Wild dragons have a unique texture, due to how long they have slept beneath the surface.
-- Ice and Fire x Undergarden: Any dragon hatched within the Undergarden gains the 'Umbral' tag, with a unique texture and heightened elemental characteristics: Fire dragons are all damage and blazing fast attacks; Ice dragons are slow and methodical; Lightning dragons spark with energy and live as conduits for Nature's might. Leaving the Undergarden before the dragon is fully grown removes the Umbral tag. Umbral is mutually exclusive with Stunted and Ender. Dragons cannot progress past Stage 4 outside of the Undergarden.
+- Ice and Fire x Undergarden: Any dragon hatched within the Undergarden gains the 'Umbral' tag, with a unique texture and heightened elemental characteristics: Fire dragons are all damage and blazing fast attacks; Ice dragons are slow and methodical; Lightning dragons spark with energy and live as conduits for Nature's might. Leaving the Undergarden before the dragon is fully grown removes the Umbral tag. Umbral is mutually exclusive with Stunted and Ender. Dragons cannot progress past Stage 3 outside of the Undergarden.
 - L> Fire dragons: 1x Movement Speed, 1.25x Damage, 0.75x Health + Proximity to a Fire Dragon gives Strength I, Speed I, and Fire Resistance I.
 - L> Ice dragons: 0.8x Movement Speed, 0.9x Damage, 1.25x Health + Proximity to an Ice Dragon gives Resistance II and Water Breathing I.
 - L> Lightning Dragons: 1.25x Movement Speed, 1x Damage, 0.9x Health, + Proximity to a Lightning Dragon gives a 0.75x multiplier to spell costs.
