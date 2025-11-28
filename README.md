@@ -209,7 +209,6 @@
 - AE2: Lumen Ball now returns 8x when crafted  
 - AE2: Sky Stone Block Slab -> new item: Path Slab  
 - AE2: Sky Stone Small Brick Slab -> new item: Coarse Dirt Slab
-- GS: Gate Nether behind Sir Pumpkinhead. *The Dread Harvest deems you worthy...*/*They witness you, in your entirety, and find you wanting...*
 - GS: Gate Flaming Ruby behind Wither. *Fires burn in the hearts of once-inert stones...*
 - GS x TC: Gate Diamond gear and Netherite behind Smeltery.
 - GS: Magma Cubes in the Overworld, Blights, Prospectors, Undead Miner B and C, Burned Zombie, Swampy, Mummy, Burning Skeleton from Bases not safe, Gloomweavers, Skeleton Demoman, Bonescaller, Bone Stalker, Fallen Chaos Knight, Bloody Gadfly, and Crumbling Skeletons spawn post Nether. *The veil between Life and Death thins...*
